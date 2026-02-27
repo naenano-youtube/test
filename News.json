@@ -1,7 +1,7 @@
 {
   "News": [
     {
-      "Number": "100001",
+      "Number": 100001,
       "Title": "<color=#b22222>TheOtherRolesJP</color> v1.0.7",
       "Subtitle": "<color=#b22222>TheOtherRolesJP</color> v1.0.7リリース!!",
       "Short": "＊TOR JP v1.0.7＊",
@@ -9,7 +9,7 @@
       "Date": "2024-05-09T00:20:00Z"
     },
     {
-      "Number": "100002",
+      "Number": 100002,
       "Title": "自動アップデートが来た!",
       "Subtitle": "＊自動アプデができるように",
       "Short": "自動アプデ報告＊",
@@ -17,7 +17,7 @@
       "Date": "2024-05-10T00:21:30Z"
     },
     {
-      "Number": "100003",
+      "Number": 100003,
       "Title": "ロールが配分されないのを修正!",
       "Subtitle": "修正報告",
       "Short": "＊<color=#b22222>TOR JP v1.0.8</color>＊",
@@ -25,7 +25,7 @@
       "Date": "2024-05-11T00:20:30Z"
     },
     {
-      "Number": "100004",
+      "Number": 100004,
       "Title": "<color=#b22222>TheOtherRolesJP</color> v1.0.9",
       "Subtitle": "<color=#b22222>TheOtherRolesJP</color> v1.0.9リリース!!",
       "Short": "＊<color=#b22222>TOR JP v1.0.9</color>＊",
@@ -33,7 +33,7 @@
       "Date": "2024-05-15T00:20:00Z"
     },
     {
-      "Number": "100005",
+      "Number": 100005,
       "Title": "<color=#b22222>TheOtherRolesJP</color> v1.1.0",
       "Subtitle": "<color=#b22222>TheOtherRolesJP</color> v1.1.0リリース!!",
       "Short": "＊<color=#b22222>TOR JP v1.1.0</color>＊",
@@ -41,7 +41,7 @@
       "Date": "2024-08-01T00:23:30Z"
     },
     {
-      "Number": "100006",
+      "Number": 100006,
       "Title": "<color=#b22222>TheOtherRolesJP</color> v1.1.1",
       "Subtitle": "<color=#b22222>TheOtherRolesJP</color> v1.1.1リリース!!",
       "Short": "＊<color=#b22222>TOR JP v1.1.1</color>＊",
@@ -49,7 +49,7 @@
       "Date": "2024-10-29T00:17:30Z"
     },
     {
-      "Number": "100007",
+      "Number": 100007,
       "Title": "<color=#b22222>TheOtherRolesJP</color> v1.1.2",
       "Subtitle": "<color=#b22222>TheOtherRolesJP</color> v1.1.2リリース!!",
       "Short": "＊<color=#b22222>TOR JP v1.1.2</color>＊",
@@ -58,3 +58,4 @@
     }
   ]
 }
+
